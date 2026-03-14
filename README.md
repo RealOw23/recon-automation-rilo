@@ -89,8 +89,11 @@ example.com
 
 
 ### **Execution Flow**
+![Alt text](Screenshot/eksekusi.png)
+
+Ketika perintah dijalankan, maka secara otomatis akan memulai enumerasi.
 
 ### **Final Results (`live.txt`)**
-
+![Alt text](Screenshot/hasil live.png)
 
 ```
