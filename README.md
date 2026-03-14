@@ -94,6 +94,6 @@ example.com
 Ketika perintah dijalankan, maka secara otomatis akan memulai enumerasi.
 
 ### **Final Results (`live.txt`)**
-![Alt text](Screenshot/hasil live.png)
+![Alt text](Screenshot/'hasil live.png')
 
 ```
